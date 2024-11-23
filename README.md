@@ -1,6 +1,9 @@
 # WXT + React: サイドパネルサンプル
 
 このリポジトリは、WXT のサイドパネルを React で実装するためのサンプルです。
+[![Image from Gyazo](https://i.gyazo.com/2c55fc4bab47eea9553db9abef942678.gif)](https://gyazo.com/2c55fc4bab47eea9553db9abef942678)
+
+wxt を使ってサイドパネルでボタンをいい感じにしてるサンプルがなかったので、レポジトリ作りました。
 
 ## 概要
 
