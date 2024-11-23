@@ -1,4 +1,3 @@
-````markdown
 # WXT + React: サイドパネルサンプル
 
 このリポジトリは、WXT のサイドパネルを React で実装するためのサンプルです。
@@ -19,11 +18,11 @@
 ## セットアップ
 
 1. リポジトリをクローンします。
+
    ```bash
    git clone git@github.com:pikum99/wxt-side-panel-sample.git
    cd wxt-side-panel-sample
    ```
-````
 
 2. パッケージをインストールします。
 
