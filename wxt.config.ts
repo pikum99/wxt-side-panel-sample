@@ -11,9 +11,7 @@ export default defineConfig({
       "tabs",
       "storage",
     ],
-    action: {
-      default_popup: undefined,
-    },
+    action: {},
   },
   runner: {
     startUrls: ["https://www.google.co.jp/"],
